@@ -16,3 +16,12 @@ start -> roda projeto em versao deploy
 
 npm i dotenv express --save
 npm i @types/dotenv @types/express --save-dev
+
+
+{
+	"number":"5562994218721@c.us",
+	"message":"sendText Teste."
+}
+
+
+http://localhost:5000/send
